@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="style.css">
+    <title>Javascript Assignment</title>
+</head>
+
+<body>
+    <table>
+        <tr style="height:350px">
+            <td>
+                <input type="number" id="userTime" value='1'>
+                <button onclick="changeImg()">Submit</button>
+            </td>
+            <td>
+                <span><img name="slide" width="200" src="img/image1.jpg"></span>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input id='inputA' placeholder="input 1">
+                <span id="sign"></span>
+                <input id="inputB" placeholder="input 2">
+                <span> = </span>
+                <p id='out'></p>
+                <br>
+                <p id='demo'></p><br>
+                <button onclick="calculator('+')">Addition +</button>
+                <button onclick="calculator('-')">Subtraction -</button>
+                <button onclick="calculator('/')">Division /</button>
+                <button onclick="calculator('*')">Multiplication *</button>
+
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><input type="text" id='email' onkeyup="ValidateEmail()"></td>
+        </tr>
+    </table>
+    <script src="script.js"></script>
+</body>
+
+</html>
