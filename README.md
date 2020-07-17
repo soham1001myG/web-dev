@@ -6,3 +6,6 @@ https://soham1001myg.github.io/web-dev/Login-page/
 
 ### Bootstrap
 https://soham1001myg.github.io/bootstrap-webpage/
+
+### Javascript
+https://soham1001myg.github.io/web-dev/Javascript/
