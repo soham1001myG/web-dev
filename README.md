@@ -2,10 +2,10 @@
 Web Development training course conducted by SFIT and KubixSquare
 
 ### Html & Css
-https://soham1001myg.github.io/web-dev/Login-page/
+https://sohammyg.github.io/web-dev/Login-page/
 
 ### Bootstrap
-https://soham1001myg.github.io/bootstrap-webpage/
+https://sohammyg.github.io/bootstrap-webpage/
 
 ### Javascript
-https://soham1001myg.github.io/web-dev/Javascript/
+https://sohammyg.github.io/web-dev/Javascript/
